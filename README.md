@@ -1,5 +1,5 @@
 # EGTI-microcontroller
- A microcontroller program developed in C to simulate an Exhaust Gas Temperature Indicator of an airplane A320.
+ A microcontroller program developed in C to simulate an Exhaust Gas Temperature Indicator of an A320 airplane.
  
  It is necessary to use PIC C compiler to have access to some of the directories.
  
